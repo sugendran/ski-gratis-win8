@@ -1,0 +1,16 @@
+﻿/*
+ * Yes this CSS is ugly, but it's a demo
+ * about canvas and not styling html+css.
+ */
+
+html, body {
+	background: black;
+	color: white;
+	font-family: monospace;
+	width: 100%;
+	height: 100%;
+}
+
+#canvas {
+	background: white;
+}
